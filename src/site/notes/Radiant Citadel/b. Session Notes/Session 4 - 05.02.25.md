@@ -40,5 +40,7 @@ After it began to glow, it released.
 
 <em>She said: <span style="color:DarkOrchid"><strong>“Your purpose, and mine through you, is to regain my divinity and power.”</strong></span> She expressed curiosity about the soul I had sensed, but added: <span style="color:DarkOrchid"><strong>“Remember this, and do nothing for now.”</strong></span></em></span>
 
+---
+
 
 
