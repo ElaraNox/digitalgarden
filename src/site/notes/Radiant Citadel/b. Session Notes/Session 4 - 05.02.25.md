@@ -6,7 +6,7 @@
 
 We headed back to town after learning all we could from the Proclaimers, which was not much.
 
-Upon arrival, we went directly to the Obelisk to find Alaric. He had rune rubbings and notes referencing a tiger, a scorpion, and an elephant. Aurelia held a black scorpion statuette.
+Upon arrival, we went directly to the [[Radiant Citadel/f. Locations/Obelisk\|Obelisk]] to find Alaric. He had rune rubbings and notes referencing a tiger, a scorpion, and an elephant. Aurelia held a black scorpion statuette.
 
 ---
 
@@ -22,13 +22,13 @@ The liquid began to move, crawling up the walls and onto the ceiling. As it did,
 
 We all climbed onto the dais. As we did, a voice spoke: “Welcome, do you seek knowledge?”
 
-Gabriel: “If by knowledge, you mean answers.”
+[[Radiant Citadel/c. Player Characters/Gabriel\|Gabriel]]: “If by knowledge, you mean answers.”
 
 Myself: “If by knowledge, you mean knowledge, yes.” All of the eyes turned toward me.
 
 From the pool, shadowy versions of us emerged, each carrying dual scimitars and attacking their real counterparts.
 
-Zamira was knocked unconscious by her clone, which then disappeared. The rest of us defeated our clones, and they also vanished.
+[[Radiant Citadel/c. Player Characters/Zamira\|Zamira]] was knocked unconscious by her clone, which then disappeared. The rest of us defeated our clones, and they also vanished.
 
 Once all the clones were gone, the doors and ceiling opened, and a tree of alabaster grew from the dais. Magical indentations in the floor and walls began to glow white.
 
