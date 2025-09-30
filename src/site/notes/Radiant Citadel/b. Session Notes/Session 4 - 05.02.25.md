@@ -36,9 +36,12 @@ Gabriel determined that the pattern in the indentations could be used for contai
 
 After it began to glow, it released.
 
-<span class="ravenqueen"><em>I sensed a powerful soul being released. The [Raven Queen] pressed into my mind, her presence absolute.</em>
-
-<em>She said: <span class="ravenqueen-speech">“Your purpose, and mine through you, is to regain my divinity and power.”</span> She expressed curiosity about the soul I had sensed, but added: <span class="ravenqueen-speech">“Remember this, and do nothing for now.”</span></em></span>
+<div class="ravenqueen">
+  <em>I sensed a powerful soul being released. The [Raven Queen] pressed into my mind, her presence absolute.</em><br />
+  <em>She said: <span class="ravenqueen-speech">“Your purpose, and mine through you, is to regain my divinity and power.”</span>
+  She expressed curiosity about the soul I had sensed, but added:
+  <span class="ravenqueen-speech">“Remember this, and do nothing for now.”</span></em>
+</div>
 
 
 ---
