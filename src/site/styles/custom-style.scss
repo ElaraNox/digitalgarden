@@ -1,18 +1,12 @@
-body {
-    /* Raven Queen styling */
-    .ravenqueen {
-        color: gold;
-        font-style: italic;
-    }
-
-    .ravenqueen-speech {
-        color: darkorchid;
-        font-weight: bold;
-    }
-
-    .memory {
-        color: red;
-        font-style: italic;
-    }
+body .ravenqueen {
+  color: gold !important;
+  font-style: italic !important;
 }
-
+body .ravenqueen-speech {
+  color: darkorchid !important;
+  font-weight: bold !important;
+}
+body .memory {
+  color: red !important;
+  font-style: italic !important;
+}
