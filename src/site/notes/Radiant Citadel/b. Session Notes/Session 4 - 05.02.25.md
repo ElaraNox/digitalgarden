@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/radiant-citadel/b-session-notes/session-4-05-02-25/"}
 ---
 
-
 ### Journal of [[Radiant Citadel/c. Player Characters/Seraphina\|Seraphina]]
 
 We headed back to town after learning all we could from the Proclaimers, which was not much.
